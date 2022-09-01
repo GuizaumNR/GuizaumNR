@@ -11,7 +11,11 @@ src="https://img.shields.io/twitch/status/guizaumnr?logo=twitchsx&style=for-the-
 
 <ul>
   <li> Formado em Técnico em Informática para Internet (IFSul, 2022); </li>
+  <li> Desenvolvi um <a href="https://github.com/GuizaumNR/TCC-Guilherme-Rodrigues" target="_blank" rel="noreferrer">jogo</a> no TCC;</li>
   <li> Apaixonado pelo mercado de jogos; </li>
+  <li> .</li>
+  <li> </li>
+  <li> </li> 
 </ul>
 
 ### Skills:
