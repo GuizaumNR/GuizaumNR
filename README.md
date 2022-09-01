@@ -15,6 +15,8 @@ src="https://img.shields.io/twitch/status/guizaumnr?logo=twitchsx&style=for-the-
   <li> Apaixonado pelo mercado de jogos. </li>
 </ul>
 
+---
+
 ### Skills:
 
 <p align="left">
@@ -27,13 +29,11 @@ src="https://img.shields.io/twitch/status/guizaumnr?logo=twitchsx&style=for-the-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+<div align = "left">
+<img height = "220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizaumnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
-<a href="https://github.com/guizaumnr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizaumnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/guizaumnr"><img src="https://github-readme-stats.vercel.app/api?username=guizaumnr&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="guizaumnr's GitHub stats" /></a>
-
-<a href="http://www.github.com/guizaumnr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=guizaumnr&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<img height = "220em" src="https://github-readme-streak-stats.herokuapp.com/?user=guizaumnr&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</div>
 
 ### Minhas redes sociais:
 
