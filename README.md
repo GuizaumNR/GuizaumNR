@@ -30,9 +30,9 @@ src="https://img.shields.io/twitch/status/guizaumnr?logo=twitchsx&style=for-the-
 </p>
 
 <div align = "left">
-<img height = "270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizaumnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img height = "240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizaumnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
-<img height = "270em" src="https://github-readme-stats.vercel.app/api?username=guizaumnr&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="guizaumnr's GitHub stats" />
+<img height = "240em" src="https://github-readme-stats.vercel.app/api?username=guizaumnr&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="guizaumnr's GitHub stats" />
 </div>
 
 ---
