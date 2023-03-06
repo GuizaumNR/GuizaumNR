@@ -1,10 +1,9 @@
 Olá!👋 Muito bom ver você! Não repara na bagunça...
 ============================================
 
-<a href="https://www.twitter.com/guizaumnr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/guizaumnr?logo=twitter&style=for-the-badge&color=a855f7&labelColor=27272a"
-/></a><a href="https://www.twitch.tv/guizaumnr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/guizaumnr?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=27272a&label=TWITCH+STATUS" /></a>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=guizaumnr&label=Visits">
+</p>
 
 ### Sobre mim:
 <p> Sou Guilherme Rodrigues, um jovem desenvolvedor em constante aprendizagem. </p>
@@ -14,6 +13,16 @@ src="https://img.shields.io/twitch/status/guizaumnr?logo=twitchsx&style=for-the-
   <li> 🎮Desenvolvi um jogo no <a href="https://github.com/GuizaumNR/TCC-Guilherme-Rodrigues" target="_blank" rel="noreferrer">TCC</a>;</li>
   <li> 💜Apaixonado pelo mercado de jogos. </li>
 </ul>
+
+---
+
+### Estatísticas:
+
+<div align = "left">
+<img height = "220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizaumnr&langs_count=10&title_color=ff1837&text_color=ffffff&icon_color=a855f7&bg_color=3D3D3D&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+
+<img height = "220em" src="https://github-readme-stats.vercel.app/api?username=guizaumnr&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=ff1837&icon_color=ff1837&text_color=FFFFFF" />
+</div>
 
 ---
 
@@ -29,18 +38,12 @@ src="https://img.shields.io/twitch/status/guizaumnr?logo=twitchsx&style=for-the-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<div align = "left">
-<img height = "220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizaumnr&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-
-<img height = "220em" src="https://github-readme-stats.vercel.app/api?username=guizaumnr&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="guizaumnr's GitHub stats" />
-</div>
-
 ---
 
-### Minhas redes sociais:
+### Entre em contato:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-rodrigues-a5463b1b7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="http://www.instagram.com/gui_snr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
- <a href="https://www.twitter.com/guizaumnr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
-  <a href="https://www.twitch.tv/guizaumnr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+  <a href="https://www.linkedin.com/in/guilherme-rodrigues-a5463b1b7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://www.instagram.com/gui_snr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.twitter.com/guizaumnr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+  <a href="https://www.twitch.tv/guizaumnr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitch-9146ff?style=for-the-badge&logo=twitch&logoColor=white"></a></p>
