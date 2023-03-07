@@ -42,8 +42,11 @@ Olá!👋 Muito bom ver você! Não repara na bagunça...
 
 ### Entre em contato:
 
-<p align="left">
+<div align = "left">
   <a href="https://www.linkedin.com/in/guilherme-rodrigues-a5463b1b7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="http://www.instagram.com/gui_snr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.twitter.com/guizaumnr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
   <a href="https://www.twitch.tv/guizaumnr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitch-9146ff?style=for-the-badge&logo=twitch&logoColor=white"></a></p>
+  <a href="https://api.whatsapp.com/send/?phone=53999128134" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href = "mailto:guizaumnr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-f14336?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
