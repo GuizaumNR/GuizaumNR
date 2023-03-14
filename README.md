@@ -1,9 +1,7 @@
 Olá!👋 Muito bom ver você! Não repara na bagunça...
 ============================================
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=guizaumnr&label=Visits">
-</p>
+<img src="https://komarev.com/ghpvc/?username=guizaumnr&label=Visits" align="right">
 
 ### Sobre mim:
 <p> Sou Guilherme Rodrigues, um jovem desenvolvedor em constante aprendizagem. </p>
