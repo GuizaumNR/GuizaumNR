@@ -41,7 +41,7 @@ Olá!👋 Muito bom ver você! Não repara na bagunça...
 ### Entre em contato:
 
 <div align = "left">
-  <a href="https://www.linkedin.com/in/guilherme-rodrigues-a5463b1b7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/guizaumnr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="http://www.instagram.com/gui_snr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.twitter.com/guizaumnr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
   <a href="https://www.twitch.tv/guizaumnr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitch-9146ff?style=for-the-badge&logo=twitch&logoColor=white"></a></p>
